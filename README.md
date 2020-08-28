@@ -4,8 +4,6 @@
   <img align="right" src="https://github.com/rcmuniz1994/rcmuniz1994/blob/master/rod_octocat.png?raw=true" alt="Illustration of Mazuh as an Octocat" width="300" height="300" />
 </a>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Evolux Sistemas](https://www.instagram.com/evoluxbr/?hl=pt-br) on the Support team;
 - 🌱 I’m currently learning Javascript, React and Python;
 - 💬 I collaborate on a local community called [Natal JS](https://github.com/NatalJS);
