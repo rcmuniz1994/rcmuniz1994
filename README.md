@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Rodrigo Muniz.
 
 <a href="http://rcmuniz1994.github.io/" target="_blank">
   <img align="right" src="https://github.com/rcmuniz1994/rcmuniz1994/blob/master/rod_octocat.png?raw=true" alt="Illustration of Mazuh as an Octocat" width="300" height="300" />
