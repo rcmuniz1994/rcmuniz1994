@@ -6,6 +6,5 @@
 
 - 🌱 I’m currently learning Javascript, React and Python;
 - 💬 I collaborate on a local community called [Natal JS](https://github.com/NatalJS);
-- 📫 How to reach me: [@RodrigoCostaMu1](https://twitter.com/RodrigoCostaMu1) (Twitter, EN/PT);
-and [@RodrigoMuniz](https://www.linkedin.com/in/rodrigo-muniz-109562131/) (LinkedIn, PT);
+- 📫 How to reach me: [@RodrigoMuniz](https://www.linkedin.com/in/rodrigo-muniz-109562131/) (LinkedIn, PT);
 - 😄 Pronouns: he/him, ele/dele;
