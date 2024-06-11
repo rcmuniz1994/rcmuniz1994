@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning JavaScript, TypeScript, React and Python;
 - 📫 How to reach me: [@RodrigoMuniz](https://www.linkedin.com/in/rodrigo-muniz-109562131/) (LinkedIn, PT);
 - 😄 Pronouns: he/him, ele/dele;
-- ⚡ Introverted, intuitive, thinking, judging personality traits and turbulent [INFJ-T](https://www.16personalities.com/profiles/ef4fdd5f8015d).
+- ⚡ Introverted, intuitive, thinking, judging personality traits and turbulent [(INFJ-T)](https://www.16personalities.com/profiles/ef4fdd5f8015d).
