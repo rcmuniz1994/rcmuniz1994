@@ -5,6 +5,6 @@
 </a>
 
 - 🌱 I’m currently learning JavaScript, TypeScript, React and Python;
-- 💬 I collaborate on a local community called [Natal JS](https://github.com/NatalJS);
 - 📫 How to reach me: [@RodrigoMuniz](https://www.linkedin.com/in/rodrigo-muniz-109562131/) (LinkedIn, PT);
 - 😄 Pronouns: he/him, ele/dele;
+- ⚡ Introverted, intuitive, thinking, judging personality traits and turbulent [https://www.16personalities.com/profiles/ef4fdd5f8015d](INFJ-T).
